@@ -52,9 +52,32 @@ text-transform: uppercase;
 }
 .grandchild2{
     width: 40%;
+    margin-top: 60px;
 
 }
-.grandchild1{
-margin: 50px;
-    padding: 20px;
+.gchildone{
+margin-top: 50px;
+}
+.icn{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.heading >h2{
+    text-transform: capitalize;
+    font-size: 50px;
+    font-weight: 900;
+    text-align: center;
+    padding-top: 20px;
+}
+.heading > p{
+    padding-top: -10px;
+}
+.third{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    margin-top: 10px;
+}
+.same{
 }
